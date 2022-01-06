@@ -1,0 +1,16 @@
+.selected {
+    margin-top: 15px;
+
+    span {
+        font-weight: bold;
+        font-size: .85rem;
+        
+    }
+
+    &__item {
+        width: 250px;
+        margin-top: 15px;
+        padding: 10px 0;
+        border-bottom: 1px solid grey;
+    }
+}

@@ -1,0 +1,25 @@
+
+
+.results {
+    h2 {
+        margin-bottom: 30px;
+    }
+
+    &__item {
+        width: 250px;
+        position: relative;
+        margin-bottom: 20px;
+        padding: 20px 0;
+        border-bottom: 1px solid black;
+    }
+  
+    input {
+        cursor: pointer;
+        position: absolute;
+        bottom: 0;
+        right: -13%;
+        width:20px;
+        height:20px;
+    }
+
+}

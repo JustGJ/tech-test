@@ -1,0 +1,27 @@
+.home {
+    max-width: 70%;
+    margin: 0 auto;
+    margin-top: 40px;
+    color: #6A6A6A;
+
+
+    h1 {
+        padding-left: 35px;
+        margin-bottom: 60px;
+    }
+}
+
+
+.content {
+    
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid #6A6A6A;
+    border-bottom: 1px solid #6A6A6A;
+    padding: 50px 70px;
+
+    h2 {
+        font-size: .8rem;
+    }
+}
+
